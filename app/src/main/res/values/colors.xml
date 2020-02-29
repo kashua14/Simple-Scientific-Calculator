@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#262626</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorPurple">#673AB7</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="White">#FFFFFF</color>
+    <color name="toolbar">#D1D1D1</color>
+    <color name="GreenLight">#abffc0</color>
+    <color name="equal_sign">#01c854</color>
+    <color name="Green">#247b37</color>
+    <color name="RedDark">#8D1b20</color>
+    <color name="Green1">#3eb959</color>
+    <color name="Red">#ff3943</color>
+    <color name="number_color">#feac06</color>
+    <color name="function_color">#ff7006</color>
+    <color name="Black">#000000</color>
+    <color name="Gray">#585858</color>
+</resources>

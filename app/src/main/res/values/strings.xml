@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Lets Calculate</string>
+    <string name="scientific">Scientific Calculator</string>
+    <string name="standard">Standard Calculator</string>
+    <string name="game">playing time</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="result">= 0</string>
+    <string name="_0">0</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="divide">/</string>
+    <string name="multiply">x</string>
+    <string name="equal">=</string>
+    <string name="dot">.</string>
+    <string name="percent">%</string>
+    <string name="plus_or_minus">+/-</string>
+
+    <string name="delete">Del</string>
+    <string name="clear">AC</string>
+    <string name="basic">B\'sc</string>
+    <string name="fx">f(x)</string>
+    <string name="game_btn">Gm</string>
+
+    <string name="square_root">√</string>
+    <string name="power">^</string>
+    <string name="square">x2</string>
+    <string name="exponential">e</string>
+    <string name="modulus">%</string>
+    <string name="inverse">1/x</string>
+    <string name="factorial">!</string>
+    <string name="pi">π</string>
+    <string name="rad">RAD</string>
+
+    <string name="positive_popup_text_defaults">You have Successfully completed the challenge. Keep it up to earn more points.</string>
+    <string name="positive_popup_title_defaults">Like a boss!</string>
+    <string name="negative_popup_text_defaults">You have failed to completed the challenge. So close! Wanna have another go at it? </string>
+    <string name="negative_popup_title_defaults">Aww… Snap!</string>
+
+    <string name="welcome_title">Quiz Time!</string>
+    <string name="game_rules">Instructions : </string>
+    <string name="rule1"> - You must answer all the five(5) questions correctly to open the candy crush game.</string>
+    <string name="rule2"> - In case you fail one or more questions, try again until you pass all otherwise Candy Crush won\'t start.</string>
+    <string name="start_btn">Start</string>
+    <string name="next_btn">Next >></string>
+    <string name="finish">Finish</string>
+
+
+    <string name="qn1">Question 1</string>
+    <string name="qn2">Question 2 </string>
+    <string name="qn3">Question 3</string>
+    <string name="qn4">Question 4</string>
+    <string name="qn5">Question 5</string>
+
+    <string name="question1">41 + 8 = </string>
+    <string name="question2">39 – 23 = </string>
+    <string name="question3">23 x 60 = </string>
+    <string name="question4">70 / 2 = </string>
+    <string name="question5">5! = </string>
+    <string name="name">Name</string>
+    <string name="reg_no">Reg No.</string>
+    <string name="s17b23_314">S17B23/314</string>
+    <string name="joshua">Joshua</string>
+
+
+</resources>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+        <HorizontalScrollView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:id="@+id/scientific_tab"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:context="com.kashua14.scientificcalc.MainActivity"
+            >
+
+            <LinearLayout
+                style="?android:attr/buttonBarStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:orientation="horizontal"
+
+                >
+
+                <Button
+                    android:id="@+id/square_root"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="match_parent"
+                    android:layout_height="52dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="3dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginBottom="0dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/equal_sign_btn"
+                    android:text="@string/square_root"
+                    android:textAllCaps="false"
+                    android:textColor="@color/White"
+                    android:textSize="30sp" />
+
+                <Button
+                    android:id="@+id/power"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="match_parent"
+                    android:layout_height="52dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="3dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginBottom="0dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/equal_sign_btn"
+                    android:text="@string/power"
+                    android:textAllCaps="false"
+                    android:textColor="@color/White"
+                    android:textSize="30sp"
+                    />
+
+                <Button
+                    android:id="@+id/square"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="match_parent"
+                    android:layout_height="52dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="3dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginBottom="0dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/equal_sign_btn"
+                    android:text="@string/square"
+                    android:textAllCaps="false"
+                    android:textColor="@color/White"
+                    android:textSize="30sp"
+                    />
+
+                <Button
+                    android:id="@+id/factorial"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="match_parent"
+                    android:layout_height="52dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="3dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginBottom="0dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/equal_sign_btn"
+                    android:text="@string/factorial"
+                    android:textAllCaps="false"
+                    android:textColor="@color/White"
+                    android:textSize="30sp"
+                    />
+
+                <Button
+                    android:id="@+id/inverse"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="match_parent"
+                    android:layout_height="52dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="3dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginBottom="0dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/equal_sign_btn"
+                    android:text="@string/inverse"
+                    android:textAllCaps="false"
+                    android:textColor="@color/White"
+                    android:textSize="30sp"
+                    />
+
+                <Button
+                    android:id="@+id/pi"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="match_parent"
+                    android:layout_height="52dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="3dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginBottom="0dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/equal_sign_btn"
+                    android:text="@string/pi"
+                    android:textAllCaps="false"
+                    android:textColor="@color/White"
+                    android:textSize="30sp"
+                    />
+
+                <Button
+                    android:id="@+id/exponent"
+                    style="?android:attr/buttonBarButtonStyle"
+                    android:layout_width="match_parent"
+                    android:layout_height="52dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="3dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginBottom="0dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/equal_sign_btn"
+                    android:text="@string/exponential"
+                    android:textAllCaps="false"
+                    android:textColor="@color/White"
+                    android:textSize="30sp"
+                    />
+
+            </LinearLayout>
+
+        </HorizontalScrollView>
